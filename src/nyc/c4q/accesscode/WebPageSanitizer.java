@@ -22,7 +22,7 @@ import java.net.URL;
 public class WebPageSanitizer
 {
 
-    public static ArrayList test()
+    public static ArrayList sanitizing()
     {
         File myFile = new File("/Users/c4q-madelyntavarez/Desktop/ScriptHW.txt");
 
@@ -62,7 +62,7 @@ public class WebPageSanitizer
 
 
         public static void main(String[] args) throws Exception {
-            test();
+            sanitizing();
 
         }
     }
